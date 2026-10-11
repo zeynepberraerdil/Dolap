@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👗 KAPSÜL DOLAP — Kırklareli Yerel Hızlı Moda Platformu
 
 > **Kırklareli Üniversitesi** öğrencileri ve yerel butikleri buluşturan; hızlı teslimat, "Kapıda Dene & Geri Ver" imkanı ve akıllı kapsül gardırop kombinleme vizyonuna sahip Flutter projesi.
@@ -105,3 +106,7 @@ flutter run
 ---
 
 *© 2026 Kapsül Dolap — Kırklareli Üniversitesi Yerel Moda İnisiyatifi Projesi*
+=======
+# Dolap
+Kapsul dolap
+>>>>>>> a53d57a42df4ed84f7c46ffda3cc58406ac08035
